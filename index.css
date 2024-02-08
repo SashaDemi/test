@@ -4,4 +4,10 @@ body {
 
 .div-project {
     display: flex;
-    justify-content: center}
+    justify-content: center
+}
+
+.some-text {
+    color: aliceblue;
+    max-width: 600px;
+}
